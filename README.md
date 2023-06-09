@@ -1,6 +1,8 @@
 # MRI-TUMOR-DETECTION
 Gazi University Computer Engineering Graduation Project 
 
+NOTE: VIRTUAL ENVIROMENT SHOULD BE ACTIVED! 
+
 Dataset
 
 LGG Segmentation Dataset
